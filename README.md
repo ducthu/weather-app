@@ -6,6 +6,10 @@
 - Apollo Client (graph)
 - Typescript
 
+## Login
+email: "eve.holt@reqres.in"
+password": "cityslicka"
+
 ## Installation
 
 First, install NPM packages:
